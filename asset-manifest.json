@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/stiker-pack/static/css/main.31d6cfe0.css",
+    "main.js": "/stiker-pack/static/js/main.e93731c0.js",
+    "index.html": "/stiker-pack/index.html",
+    "main.e93731c0.js.map": "/stiker-pack/static/js/main.e93731c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e93731c0.js"
+  ]
+}
